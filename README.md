@@ -1,49 +1,122 @@
-# 🚀 Full Stack Web Developer, Graphic Designer, Creative Writer, and Aspiring Prompt Engineer
+# Robbie Calvin Mitchell  
+**AI Systems Builder · WordPress Plugin Architect · SEO Infrastructure Engineer**
 
-I build immersive websites, mobile-first apps, and clean visual brands. My core focus is on classic web design and development, enhanced by thoughtful graphic work, smooth UX, and meaningful storytelling. As a complement, I explore ways AI can subtly enhance interactivity and automation without overwhelming the creative vision. Whether it’s through animation, automation, or creative UX metaphors, I explore the innovative edge of design, functionality, and artificial intelligence.
+I build systems, not pages.
 
-## 🧠 Specialties:
-- Advanced prompt engineering & ChatGPT metaphor hacking  
-- Ethical hacking labs and automation pipelines  
-- SEO strategy & technical auditing tools  
-- Web design and WordPress customization  
-- Python-powered scraping and CLI utilities  
-- Full-stack development (HTML, CSS, JavaScript, PHP)  
-- Containerized builds with Docker  
-
-## 💼 Notable Projects:
-- **SEO Auditor:** A Dockerized CLI for site audits and PDF reporting  
-- **[Glitter Queen Creative](https://glitterqueencreative.ca):** WordPress site for a Vancouver-based artisan jeweler — optimized for SEO, branding, and usability  
-- **Ambient Mood Clock:** An astrology-infused dashboard blending numerology, emotional visuals, and sound  
-  [🗿 View Live](https://robert-calvin-dev.github.io/mysticclock/personlization.html)  
-- **[The Pour Choice](https://robert-calvin-dev.github.io/the-pour-choice/):** Interactive wine education web app  
-- **Artificial Insignificance:** A dystopian AI narrative built for metaphor-driven worldbuilding  
-- **Sandbox Tools:** Live CSS/JS/HTML reset environments with theme toggles  
-
-## 🌟 Unique Strengths:
-- Expert in responsive web design and WordPress custom themes  
-- Advanced scraper + automation logic with Python  
-- Skilled in graphic design and visual identity systems  
-- Creative writer and narrative architect with storytelling focus  
-- Metaphor-first approach to prompt engineering  
-- Deep understanding of ChatGPT limits, structure, and memory  
-
-## 💼 Previous Experience:
-Before diving into AI and development, I led customer service operations across hospitality, retail, cannabis, fashion, and corporate venues — combining empathy, tech, and brand experience at scale.
-
-## 🎯 Career Goal:
-To land a full-time role as a **Web Administrator** or **Digital Content Manager** where I can apply my front-end skills, backend automation, and brand development knowledge.  
-Further down the line, I aim to become a **Business-Focused AI Specialist** — helping teams and creators integrate AI to unlock new business opportunities and creative breakthroughs.
+My work lives at the intersection of AI, WordPress engineering, SEO automation, and product architecture. Every project is designed to be owned, extensible, and monetizable.
 
 ---
 
-### 🔍 View My Work  
-- **Portfolio:** [Visit My Online Portfolio](https://robert-calvin-dev.github.io/portfolio)  
-- **📄 Resume:** [View My Resume](https://www.canva.com/design/DAGj39bTAbc/hGjmIK2Ti9gGav9xXCP6MA/view?utm_content=DAGj39bTAbc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f94c128a2)  
-- **🔗 LinkedIn:** [Find Me on LinkedIn](https://www.linkedin.com/in/robert-mitchell-694207316)
+## What I Build
 
-<!---
-robert-calvin-dev/robert-calvin-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚙️ QuickWoo Plugin Suite  
+A modular WordPress ecosystem built for scale.
 
+- Quick SEO – Technical + on-page SEO control framework  
+- Quick Add / Edit / Variations – Bulk WooCommerce operations  
+- Quick Audit – Automated SEO diagnostics  
+- Quick Traffic – Traffic monitoring layer  
+- Quick Code – Per-page HTML/CSS/JS injection  
+- Quick Courses Builder – Courses, tests, certificates  
+- Quick Accountant – Budget & profit tracking  
+- Quick Site – Performance + optimization toolkit  
+- Quick Importer / Exporter – Controlled data migration  
+- Quick Points – Reward system architecture  
+- Quick Ship – Simplified WooCommerce shipping  
+
+Unified UI architecture. Admin-first performance. Built for ownership.
+
+---
+
+### 🍷 Myra — AI-Powered Virtual Sommelier  
+Dual-mode AI recommendation system.
+
+- Guided conversational flow  
+- Free-form intent extraction  
+- Constraint-based recommendations (budget, region, pairing, occasion)  
+- Inventory-aware decision logic  
+- Conversion-driven outputs  
+
+Currently evolving toward voice integration and bar-level inventory management.
+
+---
+
+### 🧠 SpeechFlow (In Design)  
+Whiteboard-style visual flow mapping system.
+
+- Structured conversation mapping  
+- AI-assisted flow refinement  
+- Node-based logic visualization  
+- Designed for product architects, educators, and AI system builders  
+
+SpeechFlow focuses on turning chaotic thinking into mapped, structured execution.
+
+---
+
+### 🌈 Red Door (In Development)  
+Mobile-first LGBT social network platform.
+
+- Real-time map-based discovery  
+- Profile-driven social mode  
+- Pseudonymous-first architecture  
+- Safety controls with toggleable location visibility  
+- Group chat and controlled interaction permissions  
+
+Built with isolation between real-time discovery and traditional profile systems.
+
+---
+
+### 🧠 AI Development Philosophy  
+
+AI is not a toy.
+
+It is a multiplier for:
+- System design  
+- Rapid prototyping  
+- Code generation with architectural oversight  
+- SEO and structured data automation  
+- Educational tooling  
+
+I specialize in building AI-enhanced systems where the human remains the architect.
+
+---
+
+### 🛠 Technical Stack
+
+- WordPress (custom plugin architecture)
+- WooCommerce internal extensions
+- PHP (modular architecture)
+- JavaScript (admin UI + interaction layers)
+- Python (CLI tools, data conversion, automation)
+- Nginx / Ubuntu / DigitalOcean infrastructure
+- SSH / WP-CLI / direct server management
+- Schema.org structured data implementation
+- SEO architecture and indexing strategy
+
+Self-hosted. Code-first. No dependency bloat.
+
+---
+
+## Current Focus
+
+- Expanding the QuickWoo ecosystem  
+- Hardening monetization architecture  
+- Building AI-first educational products  
+- Designing scalable, acquisition-ready software systems  
+
+---
+
+## Philosophy
+
+Ownership > SaaS dependency  
+Systems > gimmicks  
+Architecture > hacks  
+Proof > promises  
+
+---
+
+## Connect
+
+Website: https://robbiecalvin.com  
+QuickWoo: https://quickwoo.pro  
+GitHub: https://github.com/robbiecalvin  
