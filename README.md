@@ -120,3 +120,7 @@ Proof > promises
 Website: https://robbiecalvin.com  
 QuickWoo: https://quickwoo.pro  
 GitHub: https://github.com/robbiecalvin  
+
+## Engineering portfolio
+
+See the [main GitHub profile](https://github.com/robbiecalvin) for the current project index, including [Codex Master](https://github.com/robbiecalvin/codexmaster), [Intelligent Productivity Suite](https://github.com/robbiecalvin/productivitysuite) and [SpeechFlow](https://github.com/robbiecalvin/speechflow). Individual repositories document implementation status and verification limitations.
